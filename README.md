@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # 30-days-of-node
 
 🚀🌍 30 Days of Node
