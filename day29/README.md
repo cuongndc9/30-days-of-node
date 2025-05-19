@@ -43,6 +43,6 @@ $ npm run dev
 ![License](https://img.shields.io/github/license/cuongw/mern-stack-starter.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-🦄
+Be a lifelong learner, not a know-it-all.
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
