@@ -69,6 +69,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🐯
+Action beats perfection.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
