@@ -39,6 +39,6 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/express-mysql-restful.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🦄
+Be a lifelong learner, not a know-it-all.
+🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
