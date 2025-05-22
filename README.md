@@ -125,6 +125,6 @@ URL Shortener
 _Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges._
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
+Discomfort is the currency of your dreams.
 🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
