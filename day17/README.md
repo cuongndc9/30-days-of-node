@@ -39,6 +39,6 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/express-mysql-restful.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-👻
+Discomfort is the currency of your dreams.
+🧑‍💻,
 <!-- INSPIRATIONAL_QUOTE_END -->
