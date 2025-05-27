@@ -126,5 +126,5 @@ _Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for aweso
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Discomfort is the currency of your dreams.
-🐶
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
