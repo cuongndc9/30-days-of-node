@@ -126,5 +126,5 @@ _Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for aweso
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 The best way to predict the future is to create it.
-🧑‍💻,
+🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
