@@ -125,6 +125,6 @@ URL Shortener
 _Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges._
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🐯
+Stay curious. Keep learning. Keep growing.
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
