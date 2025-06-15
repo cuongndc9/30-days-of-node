@@ -125,5 +125,5 @@ URL Shortener
 _Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges._
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/e5dd7943-9aef-4ee2-94a1-c411600f6674)
+> "Life is what happens to you while you're busy making other plans." - John Lennon
 <!-- INSPIRATIONAL_QUOTE_END -->

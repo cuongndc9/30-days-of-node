@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/e5dd7943-9aef-4ee2-94a1-c411600f6674)
+> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->
