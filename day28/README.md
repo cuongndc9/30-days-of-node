@@ -40,5 +40,5 @@ Awesome 🎉
 MIT
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
 <!-- INSPIRATIONAL_QUOTE_END -->

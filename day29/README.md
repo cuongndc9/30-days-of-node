@@ -43,5 +43,5 @@ $ npm run dev
 ![License](https://img.shields.io/github/license/cuongw/mern-stack-starter.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "Life is what happens to you while you're busy making other plans." - John Lennon
 <!-- INSPIRATIONAL_QUOTE_END -->
