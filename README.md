@@ -125,5 +125,5 @@ URL Shortener
 _Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges._
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "A person who never made a mistake never tried anything new." - Albert Einstein
+> "The only impossible journey is the one you never begin." - Tony Robbins
 <!-- INSPIRATIONAL_QUOTE_END -->

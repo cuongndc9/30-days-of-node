@@ -43,5 +43,5 @@ $ npm run dev
 ![License](https://img.shields.io/github/license/cuongw/mern-stack-starter.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Life is what happens to you while you're busy making other plans." - John Lennon
+> "The only impossible journey is the one you never begin." - Tony Robbins
 <!-- INSPIRATIONAL_QUOTE_END -->

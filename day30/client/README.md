@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
