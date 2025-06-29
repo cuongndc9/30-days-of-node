@@ -39,5 +39,5 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/express-mysql-restful.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It is during our darkest moments that we must focus to see the light." - Aristotle
+> "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
