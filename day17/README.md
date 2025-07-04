@@ -39,5 +39,5 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/express-mysql-restful.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
+> "We may encounter many defeats but we must not be defeated." - Maya Angelou
 <!-- INSPIRATIONAL_QUOTE_END -->
