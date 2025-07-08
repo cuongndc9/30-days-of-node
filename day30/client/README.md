@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only impossible journey is the one you never begin." - Tony Robbins
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 <!-- INSPIRATIONAL_QUOTE_END -->

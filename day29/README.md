@@ -43,5 +43,5 @@ $ npm run dev
 ![License](https://img.shields.io/github/license/cuongw/mern-stack-starter.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> "Life is what happens to you while you're busy making other plans." - John Lennon
 <!-- INSPIRATIONAL_QUOTE_END -->

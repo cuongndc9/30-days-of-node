@@ -125,5 +125,5 @@ URL Shortener
 _Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges._
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
+> "It is during our darkest moments that we must focus to see the light." - Aristotle
 <!-- INSPIRATIONAL_QUOTE_END -->

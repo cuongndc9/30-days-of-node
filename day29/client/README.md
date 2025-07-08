@@ -68,5 +68,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
