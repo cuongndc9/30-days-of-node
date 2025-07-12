@@ -39,5 +39,5 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/express-mysql-restful.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "We may encounter many defeats but we must not be defeated." - Maya Angelou
+> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 <!-- INSPIRATIONAL_QUOTE_END -->
